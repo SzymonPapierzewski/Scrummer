@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MobileScrummer</string>
+
+    <string name="rest_request_failure_default_message">Request failed. Please check your internet connection or contact with support.</string>
+
+    <!-- REGISTER -->
+    <string name="activity_register_login">Login</string>
+    <string name="activity_register_password">Password</string>
+    <string name="activity_register_submit_button">Register</string>
+
+    <!-- CREATE TASK -->
+    <string name="activity_task_creator">Create task</string>
+    <string name="activity_task_creator_title">Title</string>
+    <string name="activity_task_creator_text_field_description">Description</string>
+    <string name="activity_task_creator_text_field_effort_hours">Expected effort [h]</string>
+    <string name="activity_task_creator_submit_button">Submit</string>
+    <string name="activity_task_creator_failure_message">Task creation failed</string>
+    <string name="activity_task_creator_text_field_title_error_message">You have to fill title.</string>
+    <string name="activity_task_creator_text_field_description_error_message">You have to fill description.</string>
+    <string name="activity_task_creator_text_field_effort_hours_error_message">You have to fill expected effort [h].</string>
+</resources>
